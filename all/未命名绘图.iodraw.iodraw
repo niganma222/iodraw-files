@@ -29,7 +29,7 @@
           <mxGeometry x="3331" y="802" width="79" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bHmWGCyIA2seWdUQn1WF-9" value="M_lambda ⊕" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="938" y="508" width="154" height="48" as="geometry" />
+          <mxGeometry x="630" y="580" width="154" height="48" as="geometry" />
         </mxCell>
         <mxCell id="bHmWGCyIA2seWdUQn1WF-10" value="lambda map M_lambda ⊖" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3247" y="931" width="246" height="48" as="geometry" />
