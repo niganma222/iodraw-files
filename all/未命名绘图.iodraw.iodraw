@@ -17,7 +17,7 @@
           <mxGeometry x="1152" y="655" width="2611" height="434" as="geometry" />
         </mxCell>
         <mxCell id="KQ5hxuAvymjDB5iCVOTG-5" value="Input Branch" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="342" width="1082" height="1175" as="geometry" />
+          <mxGeometry x="516" y="915" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KQ5hxuAvymjDB5iCVOTG-6" value="Input image &lt;i&gt;&lt;/i&gt;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="45" y="1192" width="206" height="48" as="geometry" />
