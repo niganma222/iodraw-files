@@ -7,8 +7,8 @@
         <mxCell id="bHmWGCyIA2seWdUQn1WF-1" value="ROI Mask M_R" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="696" y="458" width="158" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="bHmWGCyIA2seWdUQn1WF-2" value="lambda map M_lambda" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="663" y="833" width="225" height="48" as="geometry" />
+        <mxCell id="bHmWGCyIA2seWdUQn1WF-2" value="lambda map M_lambda" style="whiteSpace=wrap;strokeWidth=2;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="662.5" y="703" width="225" height="48" as="geometry" />
         </mxCell>
         <mxCell id="bHmWGCyIA2seWdUQn1WF-3" value="Input image x" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="90" y="931" width="159" height="48" as="geometry" />
