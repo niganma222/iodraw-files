@@ -56,10 +56,10 @@
           <mxGeometry x="1150" y="260" width="131" height="48" as="geometry" />
         </mxCell>
         <mxCell id="bHmWGCyIA2seWdUQn1WF-18" value="Conv (3x3, 2:)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1310" y="240" width="131" height="48" as="geometry" />
+          <mxGeometry x="1310" y="260" width="131" height="48" as="geometry" />
         </mxCell>
         <mxCell id="bHmWGCyIA2seWdUQn1WF-19" value="Conv (3x3, 1)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1460" y="180" width="125" height="48" as="geometry" />
+          <mxGeometry x="1470" y="260" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="bHmWGCyIA2seWdUQn1WF-20" value="Conv" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="299" y="931" width="65" height="48" as="geometry" />
