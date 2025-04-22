@@ -148,7 +148,7 @@
         <mxCell id="bHmWGCyIA2seWdUQn1WF-48" value="STB" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="3134" y="803" width="56" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="bHmWGCyIA2seWdUQn1WF-49" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0.17;entryY=-0.01;rounded=0;" edge="1" parent="1" source="bHmWGCyIA2seWdUQn1WF-1" target="bHmWGCyIA2seWdUQn1WF-9">
+        <mxCell id="bHmWGCyIA2seWdUQn1WF-49" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bHmWGCyIA2seWdUQn1WF-1" target="bHmWGCyIA2seWdUQn1WF-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="890" y="494" />
