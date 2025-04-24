@@ -8,7 +8,7 @@
           <mxGeometry x="10" y="160" width="1480" height="745.28" as="geometry" />
         </mxCell>
         <mxCell id="6oymvtT4S7LChroCxt65-5" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.summing_function;" vertex="1" parent="1">
-          <mxGeometry x="100" y="300" width="20" height="20" as="geometry" />
+          <mxGeometry x="110" y="320" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
